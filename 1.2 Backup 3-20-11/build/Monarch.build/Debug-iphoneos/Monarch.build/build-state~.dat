@@ -1,0 +1,2650 @@
+TMonarch
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC10EEE00000000002C9710
+t1287720686
+s2922256
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004CC10EAD00000000000004CF
+t1287720621
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC10D700000000000000AB3
+t1287720304
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC11B5300000000000D96F0
+t1287723859
+s890608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC11B4300000000000001D0
+t1287723843
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004CC11D17000000000000291C
+t1287724311
+s10524
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC11D1700000000000000CD
+t1287724311
+s205
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC11D2E0000000000112F80
+t1287724334
+s1126272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004CC1106800000000000000EB
+t1287721064
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC110680000000000094AF0
+t1287721064
+s609008
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC10E6A0000000000001A58
+t1287720554
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004CB3E44C0000000000002407
+t1286857804
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004CB3E44C0000000000000DE2
+t1286857804
+s3554
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E4790000000000001533
+t1286857849
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/dlfcn.h
+c000000004CC104810000000000000B1C
+t1287718017
+s2844
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4840000000000000782
+t1286857860
+s1922
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netdb.h
+c000000004CB3E4A0000000000000307F
+t1286857888
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACDD0000000000005462
+t1287630045
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACCD0000000000004F61
+t1287630029
+s20321
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACD80000000000005A69
+t1287630040
+s23145
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/zlib.h
+c000000004CC1053F00000000000102A5
+t1287718207
+s66213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.1.2.3.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/../../Code/Monarch 1.2/InstructionsView.xib
+c000000004CFAE298000000000000546C
+t1291510424
+s21612
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/../../Code/Monarch 1.2/instructions.png
+c000000004CFAE1FB0000000000010A45
+t1291510267
+s68165
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIAuthenticationDialog.h
+c000000004CE18FF90000000000000453
+t1289850873
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIAuthenticationDialog.m
+c000000004CE18FF90000000000003CB7
+t1289850873
+s15543
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASICacheDelegate.h
+c000000004CE18FF900000000000008AD
+t1289850873
+s2221
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIDownloadCache.h
+c000000004CE18FF90000000000000804
+t1289850873
+s2052
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIDownloadCache.m
+c000000004CE18FF90000000000003924
+t1289850873
+s14628
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIFormDataRequest.h
+c000000004CE18FF90000000000000A6D
+t1289850873
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIFormDataRequest.m
+c000000004CE18FF90000000000002B52
+t1289850873
+s11090
+i"ASIFormDataRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIHTTPRequest.h
+c000000004D801C8E0000000000009515
+t1300241550
+s38165
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+i"VariableStore.h"
+i"TwitlongerRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIHTTPRequest.m
+c000000004D813D480000000000026C4C
+t1300315464
+s158796
+i"ASIHTTPRequest.h"
+i<zlib.h>
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIHTTPRequestConfig.h
+c000000004CE18FF900000000000003B0
+t1289850873
+s944
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+c000000004CE18FF90000000000000599
+t1289850873
+s1433
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIInputStream.h
+c000000004CE18FF900000000000003C9
+t1289850873
+s969
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIInputStream.m
+c000000004CE18FF90000000000000BF0
+t1289850873
+s3056
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASINetworkQueue.h
+c000000004CE18FF9000000000000109B
+t1289850873
+s4251
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASINetworkQueue.m
+c000000004CE18FF90000000000002788
+t1289850873
+s10120
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIProgressDelegate.h
+c000000004CE18FF90000000000000678
+t1289850873
+s1656
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Background.png
+c000000004CE18FF900000000000C20D1
+t1289850873
+s794833
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Blogger Icon.png
+c000000004CE18FF90000000000001CF0
+t1289850873
+s7408
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Blue Arrow Perspective.png
+c000000004CE18FF900000000000040BF
+t1289850873
+s16575
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Blue Arrow Sideways.png
+c000000004CE18FF90000000000002A49
+t1289850873
+s10825
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Check.png
+c000000004CE18FF900000000000018EC
+t1289850873
+s6380
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/AccountInfo.h
+c000000004CE18FF90000000000000306
+t1289850873
+s774
+i<Foundation/Foundation.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/AccountInfo.m
+c000000004CE18FF9000000000000021C
+t1289850873
+s540
+i"AccountInfo.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/AddAccountView.xib
+c000000004CE18FF90000000000006704
+t1289850873
+s26372
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/AddAccountViewController.h
+c000000004CE18FF9000000000000061B
+t1289850873
+s1563
+i<UIKit/UIKit.h>
+i"VariableStore.h"
+i"AccountInfo.h"
+i"FBConnect.h"
+i"MOFBHelper.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/AddAccountViewController.m
+c000000004CE197080000000000002D81
+t1289852680
+s11649
+i"AddAccountViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/BlogListViewController.h
+c000000004CE18FF900000000000001CA
+t1289850873
+s458
+i<UIKit/UIKit.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/BlogListViewController.m
+c000000004CE195A200000000000012EC
+t1289852322
+s4844
+i"BlogListViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/BloggerRequest.h
+c000000004D7CDE0A0000000000000539
+t1300028938
+s1337
+i<Foundation/Foundation.h>
+i"AccountInfo.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/BloggerRequest.m
+c000000004D7CDE0A0000000000002C5B
+t1300028938
+s11355
+i"BloggerRequest.h"
+i"ASIFormDataRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ChooseWebsiteViewController.h
+c000000004CE18FF90000000000000439
+t1289850873
+s1081
+i<UIKit/UIKit.h>
+i"VariableStore.h"
+i"SA_OAuthTwitterController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ChooseWebsiteViewController.m
+c000000004D4C476700000000000045DB
+t1296844647
+s17883
+i"ChooseWebsiteViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/CreditsView.xib
+c000000004D4C55220000000000005B43
+t1296848162
+s23363
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/DetailViewController.h
+c000000004D801F460000000000000C65
+t1300242246
+s3173
+i<UIKit/UIKit.h>
+i"VariableStore.h"
+i"TwitterRequest.h"
+i"TumblrRequest.h"
+i"FoursquareRequest.h"
+i"FBConnect.h"
+i"MOFBHelper.h"
+i"Reachability.h"
+i"MenuViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/DetailViewController.m
+c000000004D801F4600000000000088F6
+t1300242246
+s35062
+i"DetailViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/FoursquareRequest.h
+c000000004CE18FF9000000000000042D
+t1289850873
+s1069
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/FoursquareRequest.m
+c000000004CE18FF90000000000001740
+t1289850873
+s5952
+i"FoursquareRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/FoursquareSettingsView.xib
+c000000004CE18FF90000000000006A5E
+t1289850873
+s27230
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/FoursquareSettingsViewController.h
+c000000004CE1AAA300000000000003F9
+t1289857699
+s1017
+i<UIKit/UIKit.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/FoursquareSettingsViewController.m
+c000000004CE1AAA30000000000002821
+t1289857699
+s10273
+i"FoursquareSettingsViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/GeneralSettingsView.xib
+c000000004CE18FF90000000000006C13
+t1289850873
+s27667
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/GeneralSettingsViewController.h
+c000000004CE18FF9000000000000023D
+t1289850873
+s573
+i<UIKit/UIKit.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/GeneralSettingsViewController.m
+c000000004CE18FF90000000000000AFA
+t1289850873
+s2810
+i"GeneralSettingsViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ImageListViewController.h
+c000000004D7CDF8900000000000002C2
+t1300029321
+s706
+i<UIKit/UIKit.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ImageListViewController.m
+c000000004D7CE0C900000000000021E0
+t1300029641
+s8672
+i"ImageListViewController.h"
+i"ASIFormDataRequest.h"
+i"UIImage+Extras.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ImgurRequest.h
+c000000004D7CDB9700000000000001F3
+t1300028311
+s499
+i<Foundation/Foundation.h>
+i"VariableStore.h"
+i"ASIHTTPRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ImgurRequest.m
+c000000004D7CDB9700000000000005FE
+t1300028311
+s1534
+i"ImgurRequest.h"
+i"ASIFormDataRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/LinkedinRequest.h
+c000000004CE18FF90000000000000620
+t1289850873
+s1568
+i<Foundation/Foundation.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/LinkedinRequest.m
+c000000004CE18FF90000000000002AB0
+t1289850873
+s10928
+i"LinkedinRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/LoadDraftViewController.h
+c000000004D4C49C10000000000000152
+t1296845249
+s338
+i<UIKit/UIKit.h>
+i"VariableStore.h"
+i"MonarchAppDelegate.h"
+i"DetailViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/LoadDraftViewController.m
+c000000004D4C53580000000000001AC6
+t1296847704
+s6854
+i"LoadDraftViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/MenuViewController.h
+c000000004CE18FF900000000000004ED
+t1289850873
+s1261
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/MenuViewController.m
+c000000004D751DEB0000000000003CE3
+t1299521003
+s15587
+i"MenuViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/MonarchAppDelegate.h
+c000000004CE18FF9000000000000054E
+t1289850873
+s1358
+i<UIKit/UIKit.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/MonarchAppDelegate.m
+c000000004D4C51F40000000000002C00
+t1296847348
+s11264
+i"MonarchAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+i"AddAccountViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/PicasaRequest.h
+c000000004CE18FF900000000000004F0
+t1289850873
+s1264
+i<Foundation/Foundation.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/PicasaRequest.m
+c000000004CE18FF90000000000002D62
+t1289850873
+s11618
+i"PicasaRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/PicasaSettingsView.xib
+c000000004CE18FF9000000000000682B
+t1289850873
+s26667
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/PicasaSettingsViewController.h
+c000000004CE18FF900000000000002A1
+t1289850873
+s673
+i<UIKit/UIKit.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/PicasaSettingsViewController.m
+c000000004CE18FF90000000000001402
+t1289850873
+s5122
+i"PicasaSettingsViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/RootViewController.h
+c000000004CE18FF9000000000000029A
+t1289850873
+s666
+i<UIKit/UIKit.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/RootViewController.m
+c000000004CE18FF90000000000002EF7
+t1289850873
+s12023
+i"RootViewController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TumblrRequest.h
+c000000004CE18FF900000000000002DB
+t1289850873
+s731
+i<Foundation/Foundation.h>
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TumblrRequest.m
+c000000004CE18FF90000000000002309
+t1289850873
+s8969
+i"TumblrRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TwitlongerRequest.h
+c000000004D813D48000000000000017F
+t1300315464
+s383
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TwitlongerRequest.m
+c000000004D82104C00000000000005A1
+t1300369484
+s1441
+i"TwitlongerRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TwitterRequest.h
+c000000004D801F47000000000000040E
+t1300242247
+s1038
+i<Foundation/Foundation.h>
+i"VariableStore.h"
+i"GSTwitPicEngine.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TwitterRequest.m
+c000000004D81439E0000000000002104
+t1300317086
+s8452
+i"TwitterRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/VariableStore.h
+c000000004D7C5A1D0000000000000632
+t1299995165
+s1586
+i<Foundation/Foundation.h>
+i"RootViewController.h"
+i"DetailViewController.h"
+i"AddAccountViewController.h"
+i"AccountInfo.h"
+i"TwitterRequest.h"
+i"FoursquareRequest.h"
+i"BloggerRequest.h"
+i"BlogListViewController.h"
+i"MenuViewController.h"
+i"FoursquareSettingsViewController.h"
+i"ChooseWebsiteViewController.h"
+i"GeneralSettingsViewController.h"
+i"LoadDraftViewController.h"
+i"ImageListViewController.h"
+i"PicasaRequest.h"
+i"PicasaSettingsViewController.h"
+i"SA_OAuthTwitterEngine.h"
+i"SA_OAuthTwitterController.h"
+i"NSData+Base64a.h"
+i"OAuthConsumer.h"
+i"LinkedinRequest.h"
+i"ImgurRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/VariableStore.m
+c000000004CE18FF900000000000003C8
+t1289850873
+s968
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Cross.png
+c000000004CE18FF90000000000001845
+t1289850873
+s6213
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Crumpled Paper.png
+c000000004CE18FF9000000000005069F
+t1289850873
+s329375
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/DetailView.xib
+c000000004D7EA24C0000000000007B34
+t1300144716
+s31540
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Facebook Icon.png
+c000000004CE18FF9000000000000245D
+t1289850873
+s9309
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Foursquare Icon.png
+c000000004CE18FF900000000000031A7
+t1289850873
+s12711
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/GSTwitPicEngine/GSTwitPicEngine.h
+c000000004CE18FF9000000000000076A
+t1289850873
+s1898
+i<Foundation/Foundation.h>
+i"OAToken.h"
+i"ASIHTTPRequest.h"
+i"NSString+URLEncoding.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/GSTwitPicEngine/GSTwitPicEngine.m
+c000000004D745ED30000000000002AE1
+t1299472083
+s10977
+i"GSTwitPicEngine.h"
+i"ASIFormDataRequest.h"
+i"ASINetworkQueue.h"
+i"OAConsumer.h"
+i"OAMutableURLRequest.h"
+i"OAPlaintextSignatureProvider.h"
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Icon.png
+c000000004CE18FF90000000000002FF1
+t1289850873
+s12273
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ImageListView.xib
+c000000004CE18FF90000000000004248
+t1289850873
+s16968
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Linkedin Icon.png
+c000000004CE18FFA0000000000001498
+t1289850874
+s5272
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBErrors.h
+c000000004CE18FFA000000000000006F
+t1289850874
+s111
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBHelper.h
+c000000004CE18FFA00000000000001F8
+t1289850874
+s504
+i<Foundation/Foundation.h>
+i"MOFBStatus.h"
+i"UIImage+Extras.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBHelper.m
+c000000004CE18FFA0000000000000621
+t1289850874
+s1569
+i"MOFBHelper.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBPermission.h
+c000000004CE18FFA000000000000020C
+t1289850874
+s524
+i<Foundation/Foundation.h>
+i"FBConnect.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBPermission.m
+c000000004CE18FFA0000000000000386
+t1289850874
+s902
+i"MOFBPermission.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBStatus.h
+c000000004CE18FFA00000000000001F8
+t1289850874
+s504
+i<Foundation/Foundation.h>
+i"FBConnect.h"
+i"MOFBPermission.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBStatus.m
+c000000004CE18FFA00000000000006BF
+t1289850874
+s1727
+i"MOFBStatus.h"
+i"MOFBErrors.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MainWindow.xib
+c000000004CE18FFA00000000000085EF
+t1289850874
+s34287
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MonarchTransparent.png
+c000000004CE18FFA000000000003AB60
+t1289850874
+s240480
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Monarch_Prefix.pch
+c000000004CE18FFA0000000000000140
+t1289850874
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/NSData+Base64a.h
+c000000004CE18FFA0000000000000350
+t1289850874
+s848
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/NSData+Base64a.m
+c000000004CE18FFA0000000000001F81
+t1289850874
+s8065
+i"NSData+Base64a.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/NSMutableURLRequest+Parameters.h
+c000000004CE18FFA00000000000005AB
+t1289850874
+s1451
+i<Foundation/Foundation.h>
+i"OARequestParameter.h"
+i"NSURL+Base.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/NSString+URLEncoding.h
+c000000004CE18FFA000000000000055D
+t1289850874
+s1373
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/NSURL+Base.h
+c000000004CE18FFA0000000000000540
+t1289850874
+s1344
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OAAsynchronousDataFetcher.h
+c000000004CE18FFA0000000000000746
+t1289850874
+s1862
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OAConsumer.h
+c000000004CE18FFA00000000000005CF
+t1289850874
+s1487
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OADataFetcher.h
+c000000004CE18FFA00000000000006D6
+t1289850874
+s1750
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+i"OAServiceTicket.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OAHMAC_SHA1SignatureProvider.h
+c000000004CE18FFA0000000000000573
+t1289850874
+s1395
+i<Foundation/Foundation.h>
+i"OASignatureProviding.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OAMutableURLRequest.h
+c000000004CE18FFA00000000000008EF
+t1289850874
+s2287
+i<Foundation/Foundation.h>
+i"OAConsumer.h"
+i"OAToken.h"
+i"OAHMAC_SHA1SignatureProvider.h"
+i"OASignatureProviding.h"
+i"NSMutableURLRequest+Parameters.h"
+i"NSURL+Base.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OAPlaintextSignatureProvider.h
+c000000004CE18FFA0000000000000572
+t1289850874
+s1394
+i<Foundation/Foundation.h>
+i"OASignatureProviding.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OARequestParameter.h
+c000000004CE18FFA00000000000006B5
+t1289850874
+s1717
+i<Foundation/Foundation.h>
+i"NSString+URLEncoding.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OAServiceTicket.h
+c000000004CE18FFA0000000000000695
+t1289850874
+s1685
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OASignatureProviding.h
+c000000004CE18FFA000000000000057A
+t1289850874
+s1402
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OAToken.h
+c000000004CE18FFA0000000000000753
+t1289850874
+s1875
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/OAuthConsumer/OAuthConsumer.h
+c000000004CE18FFA000000000000068C
+t1289850874
+s1676
+i<Foundation/Foundation.h>
+i"OAToken.h"
+i"OAConsumer.h"
+i"OAMutableURLRequest.h"
+i"NSString+URLEncoding.h"
+i"NSMutableURLRequest+Parameters.h"
+i"NSURL+Base.h"
+i"OASignatureProviding.h"
+i"OAHMAC_SHA1SignatureProvider.h"
+i"OAPlaintextSignatureProvider.h"
+i"OARequestParameter.h"
+i"OAServiceTicket.h"
+i"OADataFetcher.h"
+i"OAAsynchronousDataFetcher.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Paperclip.png
+c000000004CE18FFA0000000000001D5D
+t1289850874
+s7517
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Picasa Icon.png
+c000000004CE18FFA000000000000C97A
+t1289850874
+s51578
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Polaroids.png
+c000000004CE18FFA00000000000090A1
+t1289850874
+s37025
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Reachability.h
+c000000004CE18FFA0000000000000F1B
+t1289850874
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Reachability.m
+c000000004CE18FFA000000000000239B
+t1289850874
+s9115
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Tumblr Icon.png
+c000000004CE18FFA000000000000220B
+t1289850874
+s8715
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter Icon.png
+c000000004CE18FFA0000000000002200
+t1289850874
+s8704
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.h
+c000000004CE18FFA000000000000219D
+t1289850874
+s8605
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterEngineDelegate.h"
+i"MGTwitterParserDelegate.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m
+c000000004CE18FFA000000000000D23F
+t1289850874
+s53823
+i"MGTwitterEngine.h"
+i"MGTwitterHTTPURLConnection.h"
+i"NSData+Base64.h"
+i"MGTwitterStatusesYAJLParser.h"
+i"MGTwitterMessagesYAJLParser.h"
+i"MGTwitterUsersYAJLParser.h"
+i"MGTwitterMiscYAJLParser.h"
+i"MGTwitterSearchYAJLParser.h"
+i"MGTwitterStatusesLibXMLParser.h"
+i"MGTwitterMessagesLibXMLParser.h"
+i"MGTwitterUsersLibXMLParser.h"
+i"MGTwitterMiscLibXMLParser.h"
+i"MGTwitterStatusesParser.h"
+i"MGTwitterUsersParser.h"
+i"MGTwitterMessagesParser.h"
+i"MGTwitterMiscParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterEngineDelegate.h
+c000000004CE18FFA00000000000008CF
+t1289850874
+s2255
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterEngineGlobalHeader.h
+c000000004CE18FFA00000000000007EC
+t1289850874
+s2028
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.h
+c000000004CE18FFA0000000000000485
+t1289850874
+s1157
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterRequestTypes.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m
+c000000004CE18FFA000000000000065A
+t1289850874
+s1626
+i"MGTwitterHTTPURLConnection.h"
+i"NSString+UUID.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.h
+c000000004CE18FFA0000000000000600
+t1289850874
+s1536
+i"MGTwitterEngineGlobalHeader.h"
+i<libxml/xmlreader.h>
+i"MGTwitterParserDelegate.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.h
+c000000004CE18FFA000000000000012A
+t1289850874
+s298
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.h
+c000000004CE18FFA0000000000000122
+t1289850874
+s290
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m
+c000000004CE18FFA000000000000076B
+t1289850874
+s1899
+i"MGTwitterMessagesParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesYAJLParser.h
+c000000004CE18FFA0000000000000183
+t1289850874
+s387
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesYAJLParser.m
+c000000004CE18FFA0000000000000848
+t1289850874
+s2120
+i"MGTwitterMessagesYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.h
+c000000004CE18FFA0000000000000122
+t1289850874
+s290
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.h
+c000000004CE18FFA0000000000000130
+t1289850874
+s304
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m
+c000000004CE18FFA000000000000056A
+t1289850874
+s1386
+i"MGTwitterMiscParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscYAJLParser.h
+c000000004CE18FFA000000000000013B
+t1289850874
+s315
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscYAJLParser.m
+c000000004CE18FFA00000000000004E3
+t1289850874
+s1251
+i"MGTwitterMiscYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterParserDelegate.h
+c000000004CE18FFA0000000000000330
+t1289850874
+s816
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterRequestTypes.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterRequestTypes.h
+c000000004CE18FFA000000000000105F
+t1289850874
+s4191
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterSearchYAJLParser.h
+c000000004CE18FFA00000000000001C8
+t1289850874
+s456
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterSearchYAJLParser.m
+c000000004CE18FFA0000000000000D5B
+t1289850874
+s3419
+i"MGTwitterSearchYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.h
+c000000004CE18FFA000000000000012A
+t1289850874
+s298
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.h
+c000000004CE18FFA0000000000000118
+t1289850874
+s280
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterXMLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m
+c000000004CE18FFA000000000000084B
+t1289850874
+s2123
+i"MGTwitterStatusesParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesYAJLParser.h
+c000000004CE18FFA0000000000000199
+t1289850874
+s409
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesYAJLParser.m
+c000000004CE18FFA0000000000000BE8
+t1289850874
+s3048
+i"MGTwitterStatusesYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.h
+c000000004CE18FFA0000000000000124
+t1289850874
+s292
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.h
+c000000004CE18FFA000000000000011C
+t1289850874
+s284
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m
+c000000004CE18FFA00000000000006F2
+t1289850874
+s1778
+i"MGTwitterUsersParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersYAJLParser.h
+c000000004CE18FFA0000000000000159
+t1289850874
+s345
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersYAJLParser.m
+c000000004CE18FFA0000000000000654
+t1289850874
+s1620
+i"MGTwitterUsersYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.h
+c000000004CE18FFA0000000000000459
+t1289850874
+s1113
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterParserDelegate.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m
+c000000004CE18FFA000000000000131F
+t1289850874
+s4895
+i"MGTwitterXMLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterYAJLParser.h
+c000000004CE18FFA000000000000069B
+t1289850874
+s1691
+i"MGTwitterEngineGlobalHeader.h"
+i"yajl_parse.h"
+i"MGTwitterParserDelegate.h"
+i"MGTwitterEngineDelegate.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterYAJLParser.m
+c000000004CE18FFA0000000000002662
+t1289850874
+s9826
+i"MGTwitterYAJLParser.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/NSData+Base64.h
+c000000004CE18FFA0000000000000602
+t1289850874
+s1538
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m
+c000000004CE18FFA0000000000000F65
+t1289850874
+s3941
+i"NSData+Base64.h"
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/NSString+UUID.h
+c000000004CE18FFA00000000000000ED
+t1289850874
+s237
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m
+c000000004CE18FFA00000000000001E3
+t1289850874
+s483
+i"NSString+UUID.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/yajl_common.h
+c000000004CE18FFA0000000000000CCF
+t1289850874
+s3279
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/yajl_parse.h
+c000000004CE18FFA0000000000002137
+t1289850874
+s8503
+i"yajl_common.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.h
+c000000004CE18FFA000000000000077A
+t1289850874
+s1914
+i<UIKit/UIKit.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m
+c000000004CE18FFA000000000000397A
+t1289850874
+s14714
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"SA_OAuthTwitterEngine.h"
+i"SA_OAuthTwitterController.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.h
+c000000004CE18FFA000000000000076F
+t1289850874
+s1903
+i"MGTwitterEngine.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m
+c000000004CE18FFA00000000000039C8
+t1289850874
+s14792
+i"MGTwitterHTTPURLConnection.h"
+i"OAConsumer.h"
+i"OAMutableURLRequest.h"
+i"OADataFetcher.h"
+i"SA_OAuthTwitterEngine.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/SAOAuthTwitterEngine/libOAuth.a
+c000000004CE18FFA000000000008DF6C
+t1289850874
+s581484
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/UIImage+Extras.h
+c000000004CE18FFA000000000000011C
+t1289850874
+s284
+i<Foundation/Foundation.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/UIImage+Extras.m
+c000000004D781C0A00000000000006FD
+t1299717130
+s1789
+i"UIImage+Extras.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app.dSYM
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/AddAccountView.nib
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Background.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Blogger Icon.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Blue Arrow Perspective.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Blue Arrow Sideways.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Check.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/CreditsView.nib
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Cross.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Crumpled Paper.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/DetailView.nib
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/FBConnect.bundle
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Facebook Icon.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Foursquare Icon.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/FoursquareSettingsView.nib
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/GeneralSettingsView.nib
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Icon.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/ImageListView.nib
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Info.plist
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/InstructionsView.nib
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Linkedin Icon.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/MainWindow.nib
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Monarch
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/MonarchTransparent.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Paperclip.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Picasa Icon.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/PicasaSettingsView.nib
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/PkgInfo
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Polaroids.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/ResourceRules.plist
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Tumblr Icon.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Twitter Icon.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/instructions.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/xButton Highlighted.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/xButton.png
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASIAuthenticationDialog.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASIDownloadCache.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASIFormDataRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASIHTTPRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASIInputStream.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASINetworkQueue.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/AccountInfo.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/AddAccountViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/BlogListViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/BloggerRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ChooseWebsiteViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/DetailViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBConnectGlobal.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBDialog.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBLoginButton.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBLoginDialog.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBPermissionDialog.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBSession.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBStreamDialog.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBXMLHandler.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FoursquareRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FoursquareSettingsViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/GSTwitPicEngine.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/GeneralSettingsViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ImageListViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ImgurRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/LinkedinRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/LoadDraftViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterEngine.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterHTTPURLConnection.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterMessagesParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterMessagesYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterMiscParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterMiscYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterSearchYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterStatusesParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterStatusesYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterUsersParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterUsersYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterXMLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MOFBHelper.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MOFBPermission.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MOFBStatus.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MenuViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/Monarch
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/Monarch.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MonarchAppDelegate.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/NSData+Base64.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/NSData+Base64a.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/NSString+UUID.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/PicasaRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/PicasaSettingsViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/Reachability.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/SA_OAuthTwitterController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/SA_OAuthTwitterEngine.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/TumblrRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/TwitlongerRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/TwitterRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/UIImage+Extras.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/VariableStore.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASIDownloadCache.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASIFormDataRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASIHTTPRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASIInputStream.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASINetworkQueue.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/AccountInfo.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/AddAccountViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/BlogListViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/BloggerRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ChooseWebsiteViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/DetailViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBConnectGlobal.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBDialog.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBLoginButton.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBLoginDialog.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBPermissionDialog.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBSession.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBStreamDialog.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBXMLHandler.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FoursquareRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FoursquareSettingsViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/GSTwitPicEngine.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/GeneralSettingsViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ImageListViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ImgurRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/LinkedinRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/LoadDraftViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterEngine.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterHTTPURLConnection.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterMessagesParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterMessagesYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterMiscParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterMiscYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterSearchYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterStatusesParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterStatusesYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterUsersParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterUsersYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterXMLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterYAJLParser.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MOFBHelper.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MOFBPermission.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MOFBStatus.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MenuViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/Monarch
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/Monarch.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MonarchAppDelegate.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/NSData+Base64.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/NSData+Base64a.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/NSString+UUID.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/PicasaRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/PicasaSettingsViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/Reachability.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/SA_OAuthTwitterController.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/SA_OAuthTwitterEngine.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/TumblrRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/TwitlongerRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/TwitterRequest.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/UIImage+Extras.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/VariableStore.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect.bundle
+c000000004D7D29E70000000000000066
+t1300048359
+s102
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBConnect.h
+c000000004CE18FFC0000000000000331
+t1289850876
+s817
+i"FBSession.h"
+i"FBRequest.h"
+i"FBLoginButton.h"
+i"FBLoginDialog.h"
+i"FBPermissionDialog.h"
+i"FBStreamDialog.h"
+i"FBNativeStringUploader.h"
+i"FBTranslationsLoader.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBConnectGlobal.h
+c000000004CE18FFC0000000000001E85
+t1289850876
+s7813
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBDialog.h
+c000000004CE18FFC0000000000000EDF
+t1289850876
+s3807
+i"FBConnectGlobal.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBLoginButton.h
+c000000004CE18FFC00000000000005AD
+t1289850876
+s1453
+i"FBSession.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBLoginDialog.h
+c000000004CE18FFC00000000000002DD
+t1289850876
+s733
+i"FBDialog.h"
+i"FBRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBNativeStringUploader.h
+c000000004CE18FFC0000000000000485
+t1289850876
+s1157
+i"FBRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBPermissionDialog.h
+c000000004CE18FFC0000000000000382
+t1289850876
+s898
+i"FBLoginDialog.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBRequest.h
+c000000004CE18FFC000000000000114F
+t1289850876
+s4431
+i"FBConnectGlobal.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBSession.h
+c000000004CE18FFC000000000000156F
+t1289850876
+s5487
+i"FBConnectGlobal.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBStreamDialog.h
+c000000004CE18FFC0000000000000835
+t1289850876
+s2101
+i"FBDialog.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnect/FBTranslationsLoader.h
+c000000004CE18FFC0000000000000729
+t1289850876
+s1833
+i"FBConnectGlobal.h"
+i"FBRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnectGlobal.m
+c000000004CE18FFC00000000000005BB
+t1289850876
+s1467
+i"FBConnectGlobal.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBDialog.m
+c000000004D4C4B200000000000005492
+t1296845600
+s21650
+i"FBDialog.h"
+i"FBSession.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBLoginButton.m
+c000000004CE18FFC0000000000001462
+t1289850876
+s5218
+i"FBLoginButton.h"
+i"FBLoginDialog.h"
+i<dlfcn.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBLoginDialog.m
+c000000004CE18FFC0000000000000FF0
+t1289850876
+s4080
+i"FBLoginDialog.h"
+i"FBSession.h"
+i"FBRequest.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBPermissionDialog.m
+c000000004CE18FFC0000000000000C74
+t1289850876
+s3188
+i"FBPermissionDialog.h"
+i"FBSession.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBRequest.m
+c000000004CE18FFC0000000000002EE8
+t1289850876
+s12008
+i"FBRequest.h"
+i"FBSession.h"
+i"FBXMLHandler.h"
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBSession.m
+c000000004CE18FFC0000000000002158
+t1289850876
+s8536
+i"FBSession.h"
+i"VariableStore.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBStreamDialog.m
+c000000004CE18FFC000000000000099D
+t1289850876
+s2461
+i"FBStreamDialog.h"
+i"FBSession.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBXMLHandler.h
+c000000004CE18FFC00000000000003F4
+t1289850876
+s1012
+i"FBConnectGlobal.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBXMLHandler.m
+c000000004CE18FFC0000000000001148
+t1289850876
+s4424
+i"FBXMLHandler.h"
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/libYAJLIPhone.a
+c000000004CE18FFC0000000000043830
+t1289850876
+s276528
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/main.m
+c000000004CE18FFC0000000000000163
+t1289850876
+s355
+i<UIKit/UIKit.h>
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/xButton Highlighted.png
+c000000004CE18FFC0000000000000D55
+t1289850876
+s3413
+
+N/Users/andrewrauh/Dropbox/Code/Monarch 1.2/xButton.png
+c000000004D7582350000000000000B56
+t1299546677
+s2902
+
+N/usr/include/libxml2/libxml/xmlreader.h
+c000000004AB82E0E0000000000003107
+t1253584398
+s12551
+
+N/var/folders/Bz/Bz6tI4WbFXO2PWUcJCmHKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Monarch_Prefix-acpjanzlksrraqfqsvtqouexyudu/Monarch_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Bz/Bz6tI4WbFXO2PWUcJCmHKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Monarch_Prefix-ckxhetdpqdhiidaqyqpilgylmmyb/Monarch_Prefix.pch.gch
+t2
+s0
+
+NMonarch-Info.plist
+c000000004D4C5A340000000000000568
+t1296849460
+s1384
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322069174#322069174#0(238"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain[BWARN]warning: iPad only apps should not include an armv6 architecture (current ARCHS = "armv6 armv7").2(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain322069174#18446744073709551615#0#0(1@0"0(22@97"warning: iPad only apps should not include an armv6 architecture (current ARCHS = "armv6 armv7").322069174#18446744073709551615#0#0(1@0"0(0#1#0"8603521888#0"0#
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASIAuthenticationDialog.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIAuthenticationDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASIDownloadCache.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIDownloadCache.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASIFormDataRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIFormDataRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASIHTTPRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIHTTPRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASIInputStream.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIInputStream.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ASINetworkQueue.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASINetworkQueue.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/AccountInfo.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/AccountInfo.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/AddAccountViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/AddAccountViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/BlogListViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/BlogListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/BloggerRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/BloggerRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ChooseWebsiteViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ChooseWebsiteViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/DetailViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/DetailViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBConnectGlobal.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnectGlobal.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBDialog.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBLoginButton.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBLoginButton.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBLoginDialog.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBLoginDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBPermissionDialog.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBPermissionDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBSession.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBSession.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBStreamDialog.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBStreamDialog.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FBXMLHandler.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBXMLHandler.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FoursquareRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/FoursquareRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/FoursquareSettingsViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/FoursquareSettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/GSTwitPicEngine.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/GSTwitPicEngine/GSTwitPicEngine.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/GeneralSettingsViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/GeneralSettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ImageListViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ImageListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/ImgurRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ImgurRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/LinkedinRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/LinkedinRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/LoadDraftViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/LoadDraftViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterEngine.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterHTTPURLConnection.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterMessagesParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterMessagesYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesYAJLParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterMiscParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterMiscYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscYAJLParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterSearchYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterSearchYAJLParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterStatusesParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterStatusesYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesYAJLParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterUsersParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterUsersYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersYAJLParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterXMLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MGTwitterYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterYAJLParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MOFBHelper.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBHelper.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MOFBPermission.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBPermission.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MOFBStatus.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBStatus.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MenuViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/MenuViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/MonarchAppDelegate.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/MonarchAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/NSData+Base64.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/NSData+Base64a.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/NSData+Base64a.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/NSString+UUID.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/PicasaRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/PicasaRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/PicasaSettingsViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/PicasaSettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/Reachability.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Reachability.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/RootViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/SA_OAuthTwitterController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/SA_OAuthTwitterEngine.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/TumblrRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TumblrRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/TwitlongerRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TwitlongerRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/TwitterRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TwitterRequest.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/UIImage+Extras.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/UIImage+Extras.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/VariableStore.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/VariableStore.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/main.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASIAuthenticationDialog.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIAuthenticationDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASIDownloadCache.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIDownloadCache.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASIFormDataRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIFormDataRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASIHTTPRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIHTTPRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASIInputStream.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASIInputStream.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ASINetworkQueue.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ASIHTTPRequest/ASINetworkQueue.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/AccountInfo.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/AccountInfo.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/AddAccountViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/AddAccountViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/BlogListViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/BlogListViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/BloggerRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/BloggerRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ChooseWebsiteViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ChooseWebsiteViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/DetailViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/DetailViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBConnectGlobal.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBConnectGlobal.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBDialog.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBLoginButton.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBLoginButton.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBLoginDialog.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBLoginDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBPermissionDialog.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBPermissionDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBSession.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBSession.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBStreamDialog.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBStreamDialog.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FBXMLHandler.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/fbconnect-iphone/src/FBXMLHandler.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FoursquareRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/FoursquareRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/FoursquareSettingsViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/FoursquareSettingsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/GSTwitPicEngine.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/GSTwitPicEngine/GSTwitPicEngine.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/GeneralSettingsViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/GeneralSettingsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ImageListViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ImageListViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/ImgurRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/ImgurRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/LinkedinRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/LinkedinRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/LoadDraftViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/LoadDraftViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterEngine.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterHTTPURLConnection.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterMessagesParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterMessagesYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesYAJLParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterMiscParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterMiscYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscYAJLParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterSearchYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterSearchYAJLParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterStatusesParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterStatusesYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesYAJLParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterUsersParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterUsersYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersYAJLParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterXMLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MGTwitterYAJLParser.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/MGTwitterYAJLParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MOFBHelper.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBHelper.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MOFBPermission.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBPermission.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MOFBStatus.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MOFBStatus.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MenuViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/MenuViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/MonarchAppDelegate.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/MonarchAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/NSData+Base64.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/NSData+Base64a.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/NSData+Base64a.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/NSString+UUID.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/PicasaRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/PicasaRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/PicasaSettingsViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/PicasaSettingsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/Reachability.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Reachability.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/RootViewController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/SA_OAuthTwitterController.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/SA_OAuthTwitterEngine.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/TumblrRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TumblrRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/TwitlongerRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TwitlongerRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/TwitterRequest.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/TwitterRequest.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/UIImage+Extras.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/UIImage+Extras.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/VariableStore.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/VariableStore.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/main.o "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/../../Code/Monarch 1.2/InstructionsView.xib"
+r0
+
+CCompileXIB "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/AddAccountView.xib"
+r0
+
+CCompileXIB "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/CreditsView.xib"
+r0
+
+CCompileXIB "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/FoursquareSettingsView.xib"
+r0
+
+CCompileXIB "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/GeneralSettingsView.xib"
+r0
+
+CCompileXIB "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/Classes/PicasaSettingsView.xib"
+r0
+
+CCompileXIB "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/DetailView.xib"
+r0
+
+CCompileXIB "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/ImageListView.xib"
+r0
+
+CCompileXIB "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Background.png" Background.png
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Blogger Icon.png" "Blogger Icon.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Blue Arrow Perspective.png" "Blue Arrow Perspective.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Blue Arrow Sideways.png" "Blue Arrow Sideways.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Check.png" Check.png
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Cross.png" Cross.png
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Crumpled Paper.png" "Crumpled Paper.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Facebook Icon.png" "Facebook Icon.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Foursquare Icon.png" "Foursquare Icon.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Icon.png" Icon.png
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Linkedin Icon.png" "Linkedin Icon.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/MonarchTransparent.png" MonarchTransparent.png
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Paperclip.png" Paperclip.png
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Picasa Icon.png" "Picasa Icon.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Polaroids.png" Polaroids.png
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Tumblr Icon.png" "Tumblr Icon.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Twitter Icon.png" "Twitter Icon.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/instructions.png" "../../Code/Monarch 1.2/instructions.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/xButton Highlighted.png" "xButton Highlighted.png"
+r0
+
+CCopyPNGFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/xButton.png" xButton.png
+r0
+
+CCpResource build/Debug-iphoneos/Monarch.app/FBConnect.bundle fbconnect-iphone/src/FBConnect.bundle
+r0
+
+CCpResource build/Debug-iphoneos/Monarch.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Monarch" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app.dSYM" "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Monarch"
+r0
+
+CLd "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv6/Monarch" normal armv6
+r0
+
+CLd "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Monarch.build/Debug-iphoneos/Monarch.build/Objects-normal/armv7/Monarch" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app/Info.plist" Monarch-Info.plist
+r0
+
+CProcessPCH /var/folders/Bz/Bz6tI4WbFXO2PWUcJCmHKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Monarch_Prefix-acpjanzlksrraqfqsvtqouexyudu/Monarch_Prefix.pch.gch Monarch_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Bz/Bz6tI4WbFXO2PWUcJCmHKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Monarch_Prefix-ckxhetdpqdhiidaqyqpilgylmmyb/Monarch_Prefix.pch.gch Monarch_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/andrewrauh/Dropbox/Code/Monarch 1.2/build/Debug-iphoneos/Monarch.app"
+r0
+
